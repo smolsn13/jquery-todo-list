@@ -1,0 +1,57 @@
+body {
+  background-image: url("../img/ruledpaper.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-top: 100px auto;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+form {
+  font-size: 24px;
+  text-align: center;
+  margin: auto;
+  width: 75%;
+}
+
+ul {
+  list-style-position: inside;
+  text-align: center;
+  list-style-type: square;
+}
+
+li {
+  font-size: 30px;
+  /* text-align: center;
+  display: inline-block; */
+}
+
+.newItem {
+  width: 500px;
+  height: 70px;
+  border: 1px solid black;
+  font-size: 30px;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.submit {
+  width: 200px;
+  height: 70px;
+  border: 1px solid black;
+  border-radius: 40px;
+  margin-left: 20px;
+  font-size: 30px;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.deleteItem {
+  margin: 10px;
+  font-size: 26px;
+  border-radius: 30px;
+  padding: 0 5px;
+  font-family: 'Shadows Into Light', cursive;
+}
